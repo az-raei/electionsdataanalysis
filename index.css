@@ -105,7 +105,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Mobile Optimization */
 @media (max-width: 768px) {
     .chart-grid {
         flex-direction: column;
